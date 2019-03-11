@@ -1,0 +1,22 @@
+{
+  "name": "my-web-server",
+  "version": "1.0.0",
+  "description": "Generic Web Server with Node and Vue",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdmartins/my-web-server.git"
+  },
+  "author": "Walter Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdmartins/my-web-server/issues"
+  },
+  "homepage": "https://github.com/wdmartins/my-web-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
